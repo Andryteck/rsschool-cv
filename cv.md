@@ -5,7 +5,8 @@ location: Minsk, phone: +375292102662, email: Andry_teck@mail.ru
  Skills:  
 Javascript, HTML5, CSS3.   
   Experience:  
-   https://htmlacademy.ru/profile/id1066533  
+   https://htmlacademy.ru/profile/id1066533
+   UDEMI.COM  
    Education:  
    Belarussian National Technical University  
    English:  
