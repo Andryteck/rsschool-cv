@@ -1,0 +1,22 @@
+.cv-container {
+    max-width: 1023px;
+    width: 70%;
+    margin: 0 auto;
+
+}
+
+.main-info-container {
+  display: flex;
+  justify-content: flex-start;
+}
+
+.profile-photo-container {
+    margin-left: 51px;
+    width: 200px;
+    height: 201px;
+}
+
+.profile-photo {
+    width: 100%;
+    height: 100%;
+}
